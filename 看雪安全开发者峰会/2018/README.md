@@ -13,7 +13,8 @@
 [《从WPA2四次握手看KRACK密钥重装攻击》](https://bbs.pediy.com/thread-230091.htm) | 石冰
 《硬件钱包安全分析》 | 胡铭德
 
->
+```
 https://www.bagevent.com/event/1134294
 https://bbs.pediy.com/thread-230035.htm
 https://bbs.pediy.com/thread-245972.htm
+```
